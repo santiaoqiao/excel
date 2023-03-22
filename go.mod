@@ -1,4 +1,4 @@
-module github.com/santiaoqiao/office
+module github.com/santiaoqiao/excel
 
 go 1.19
 
